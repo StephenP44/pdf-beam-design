@@ -1,0 +1,4 @@
+section,member_type,max_span_m,max_udl_kn_per_m,deflection_limit,section_rank
+200PFC,beam,3.0,2.0,L/500,1
+250PFC,beam,4.0,3.0,L/500,2
+310UB40.4,beam,5.0,4.0,L/500,3
